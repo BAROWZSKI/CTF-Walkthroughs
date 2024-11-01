@@ -13,7 +13,7 @@ After setting your machine’s IP to work on your network, you’re ready to sca
 netdiscover -r 10.0.2.0/24 OR nmap -sn 10.0.2.0/24
 ```
 
-![DC1](/https://miro.medium.com/v2/resize:fit:1100/format:webp/1*qleG8B44yWr622FFIfpGBA.png "DC1")
+![DC1](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*qleG8B44yWr622FFIfpGBA.png "DC1")
 
 As you can see above, our IP address is 10.0.2.4 (yours may be different).
 
