@@ -1,4 +1,4 @@
-# DC:1 CTF Walkthrough (Vulnhub) 
+# DC:3 CTF Walkthrough (Vulnhub) 
 
 ###### <p align="center"> *This is official repository maintained by me*</center> </p>
 ###### <p align="center"> *[yigitdrbk](https://www.instagram.com/yigitdrbk/) *</center> </p>
